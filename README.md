@@ -1,3 +1,3 @@
 # site-web
-site web de gestion pour etablissement sholaire plus precisement le secondaire 
+site web de gestion pour etablissement scholaire plus precisement le secondaire 
 
